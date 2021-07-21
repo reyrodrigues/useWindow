@@ -1,1 +1,1 @@
-export const myPackage = (taco: string): string => `${taco} from my package`;
+export const useWindow = (): Window => global.window;
