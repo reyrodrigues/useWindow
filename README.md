@@ -1,6 +1,6 @@
 # useWindow
 
-[![npm package][npm-img]][npm-url]
+[![npm package][npm-img]][npm-url]]
 
 > useWindow Hook
 
@@ -16,7 +16,6 @@ npm install useWindow
 import { useWindow } from 'useWindow';
 
 window = useWindow();
-//=> 'hello from my package'
 ```
 
 ## API
